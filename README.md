@@ -10,7 +10,7 @@ coffee powermate.coffee
 
 ![Griffin Powermate](http://store.griffintechnology.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/p/o/powermate-3.jpg)
 
-![ARDrone](http://static.mercadoshops.com/igual-do-fime-smurfs-ar-drone-quadricopter-helicoptero_iZ1224XvZmXpZ1XfZ8504422-481800248-1.jpgXsZ8504422xIM.jpg)
+![ARDrone](http://xcopter.com/web/1heli/ar_drone/120503_17.gif)
 
 ## Controls
 
